@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on landing-page-templates
+- 🌱 I’m currently learning deep learning and cloud
+- 💬 Ask me about Next.js
