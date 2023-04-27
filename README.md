@@ -1,7 +1,7 @@
 # Howdy 👋, I'm Mmesoma Saint
 =====================================
 
-## Creative Web Developer • HTML • CSS • JavaScript • React • Tailwind • Next.js • PHP(laravel) • Node • Python • Django
+## Creative Web Developer • HTML • Tailwind(CSS) • JavaScript • React • Next.js • Python
 I'm passionate about building, collaborating/Networking and solving complex problems.
 
 * 🤝  I'm open to collaborating on open source Projects
