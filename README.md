@@ -6,7 +6,7 @@ I'm passionate about building, collaborating/Networking and solving complex prob
 
 * 🤝  I'm open to collaborating on open source Projects
 * 💼 <b> Job availability: </b> I'm flexible and available, Hit me up!
-* 🔭 I’m currently working on `**headers_ui**` & `**tempfolio**`
+* 🔭 I’m currently working on **`headers_ui`** & **`tempfolio`**
 
 ## 🌍 Socials 
 <a href="https://wa.me/+2348157832809?text=Hello Saint." target="_blank">
@@ -19,8 +19,6 @@ I'm passionate about building, collaborating/Networking and solving complex prob
   <img src="https://komarev.com/ghpvc/?username=mmesomasaint" alt="mmesomasaint" />
   
   [![GitHub mmesomasaint](https://img.shields.io/github/followers/mmesomasaint?label=Follow%20me&style=flat)](https://github.com/mmesomasaint)
-  
-  [![mmesomasaint's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmesomasaint&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmesomasaint&layout=compact&theme=solarized-dark&hide_border=true)](https://github.com/mmesomasaint/)
   
