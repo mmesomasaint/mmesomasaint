@@ -6,7 +6,7 @@ I'm passionate about building, collaborating/Networking and solving complex prob
 
 * 🤝  I'm open to collaborating on open source Projects
 * 💼 <b> Job availability: </b> I'm flexible and available, Hit me up!
-* 🔭 I’m currently working on **`headers_ui`** & **`tempfolio`**
+* 🔭 I’m currently working on **`headers_`** & **`portplates`**
 
 ## 🌍 Socials 
 <a href="https://wa.me/+2348157832809?text=Hello Saint." target="_blank">
