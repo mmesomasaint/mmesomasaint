@@ -1,12 +1,13 @@
 # Howdy 👋, I'm Mmesoma Saint
 =====================================
 
-## Creative Web Developer • HTML • Tailwind(CSS) • JavaScript • React • Next.js • Python
+## Creative Web Developer • HTML|CSS|JS • React • Tailwind(CSS) • JavaScript • React • Next.js
 I'm passionate about building, collaborating/Networking and solving complex problems.
 
 * 🤝  I'm open to collaborating on open source Projects
 * 💼 <b> Job availability: </b> I'm flexible and available, Hit me up!
-* 🔭 I’m currently working on **`headers_`** & **`portplates`**
+* 🔭 I’m currently working on **`headers_`** & **`tempillar`**
+* 📚 I'm currently learning **`Vue`** & **`Nuxtjs`**
 
 ## 🌍 Socials 
 <a href="https://wa.me/+2348157832809?text=Hello Saint." target="_blank">
