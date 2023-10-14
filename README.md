@@ -1,7 +1,7 @@
 # Howdy 👋, I'm Mmesoma Saint
 =====================================
 
-## Creative Web Developer • React • Redux • Tailwind(CSS) • Next.js • (MongoDB, Firestore, MySQL)
+## Creative Web Developer • React • Redux • Tailwind(CSS) • Next.js • (MongoDB, Firestore)
 I'm passionate about building, collaborating/Networking and solving complex problems with programming and design.
 
 * 🤝  I'm open to collaborating on open source Projects
