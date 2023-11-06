@@ -1,4 +1,4 @@
-# `| React Developer | Full Stack Developer | UX Engineer | Next JS Expert |`
+# `| React Developer | Next JS Expert |`
 
 ## `| My Aim |`
 `Quality` is my utmost priority, and I firmly believe in `delivering excellence` rather than quantity. I selectively choose projects that align with my vision and experitise, aimed at providing you with top quality and usable applications.
