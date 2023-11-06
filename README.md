@@ -27,24 +27,24 @@ Now here's a question: `What Type of Applications Web/Mobile Apps can I Build?`
 
 Well, here's the List:
 
-- 💥 Personal Web
-- 💥 E-commerce
-- 💥 Property Management
-- 💥 CMS
-- 💥 Business Management Applications
-- 💥 Saas Applications
-- 💥 Online Game Platform
-- 💥 NFT's Websites
-- 💥 Job Searching Platforms
-- 💥 Product's Page
-- 💥 SPA React Site
+- 💥 **Personal Web**
+- 💥 **E-commerce**
+- 💥 **Property Management**
+- 💥 **CMS**
+- 💥 **Business Management Applications**
+- 💥 **Saas Applications**
+- 💥 **Online Game Platform**
+- 💥 **NFT's Websites**
+- 💥 **Job Searching Platforms**
+- 💥 **Product's Page**
+- 💥 **SPA React Site**
 
 And many more
 
-Besides technical Skills, I'm also constantly perfecting my soft skills:
-- 💥 Communication
-- 💥 Team Work
-- 💥 Technical Documentation of Source codes
+Besides technical Skills, I'm also constantly perfecting my `soft skills`:
+- 💥 **Communication**
+- 💥 **Team Work**
+- 💥 **Technical Documentation of Source codes**
 
 And many more
 
