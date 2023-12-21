@@ -46,7 +46,7 @@ Besides technical Skills, I'm also constantly perfecting my `soft skills`:
 - 💥 **Team Work**
 - 💥 **Technical Documentation of Source codes**
 
-And many more
+And many more...
 
 <!--
 **devBayo/devBayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
