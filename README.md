@@ -15,7 +15,7 @@ Now Here's the List of technologies I use and have expertise in.
 - ### `| Backend & Database |`
   
   - ⭐ **Node JS** ⭐ **Express JS** ⭐ **MongoDB** ⭐ **Firebase** ⭐ **Firebase Cloud Functions**
-  - ⭐ **React Query** ⭐ **Electron** ⭐ **Shopify** ⭐ **WooCommerce** ⭐ **Git & GitHub Workflows**
+  - ⭐ **React Query** ⭐ **Electron** ⭐ **Shopify** ⭐ **Nest JS** ⭐ **Git & GitHub Workflows**
 
 - ### `| Unit Testing | Integration Testing |`
   - ⭐ **Unit Testing using JEST**
