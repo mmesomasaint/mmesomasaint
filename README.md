@@ -5,7 +5,7 @@
 
 ## `| My Tech Stack |`
 
-Now Here's the List of technologies I use and have expertise in.
+Now Here is the list of technologies I use and have expertise in.
 
 - ### `| Frontend Design |`
   
