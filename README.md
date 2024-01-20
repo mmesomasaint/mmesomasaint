@@ -10,7 +10,7 @@ Now Here is the list of technologies I use and have expertise in.
 - ### `| Frontend Design |`
   
   - ⭐ **HTML/CSS.** ⭐ **JavaScript** ⭐ **TypeScript** ⭐ **React JS**
-  - ⭐ **Next JS** ⭐ **Tailwind CSS** ⭐ **Material UI** ⭐ **Ant Design**
+  - ⭐ **Next JS** ⭐ **Tailwind CSS** ⭐ **Material UI** ⭐ **Chakra UI** ⭐ **Ant Design**
 
 - ### `| Backend & Database |`
   
